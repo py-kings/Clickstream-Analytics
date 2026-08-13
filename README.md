@@ -1,5 +1,16 @@
 # 📊 Clickstream Analytics & Sales Forecasting Pipeline
 
+[![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
+[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-Big%20Data-orange?logo=apachespark)](https://spark.apache.org/)
+[![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-Workflow%20Orchestration-blue?logo=apacheairflow)](https://airflow.apache.org/)
+[![AWS S3](https://img.shields.io/badge/AWS-S3-orange?logo=amazons3)](https://aws.amazon.com/s3/)
+[![PySpark](https://img.shields.io/badge/PySpark-Data%20Processing-orange)](https://spark.apache.org/docs/latest/api/python/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple?logo=pandas)](https://pandas.pydata.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/py-kings/Clickstream-Analytics)
+[![GitHub Repo](https://img.shields.io/badge/View%20Project-GitHub-black?logo=github)](https://github.com/py-kings/Clickstream-Analytics)
+[![Dataset](https://img.shields.io/badge/Dataset-Clickstream%20Data-green)](YOUR_DATASET_LINK_HERE)
+[![Dashboard](https://img.shields.io/badge/View-Dashboard-blue)](YOUR_DASHBOARD_LINK_HERE)
+
 An end-to-end **Clickstream Analytics pipeline** designed to process customer clickstream data, generate meaningful insights, perform time-series forecasting, and visualize results through an interactive dashboard.
 
 The project integrates **Apache Spark, Apache Airflow, AWS S3, Time Series Forecasting, and Dashboard Analytics** to demonstrate a complete data engineering and analytics workflow.
