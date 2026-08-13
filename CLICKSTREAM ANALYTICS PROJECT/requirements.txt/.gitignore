@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Airflow
+airflow.db
+airflow.cfg
+airflow-webserver.pid
+
+# Large/generated data
+data/
+*.csv
+*.parquet
+
+# Spark
+metastore_db/
+derby.log
+spark-warehouse/

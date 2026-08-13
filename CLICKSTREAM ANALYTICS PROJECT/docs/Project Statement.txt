@@ -1,0 +1,11 @@
+Project Title: Clickstream Analytics
+
+Built an end-to-end clickstream analytics project using the RetailRocket e-commerce dataset to study user behavior
+and conversion funnels. Ingested raw event data into Amazon S3 as a cloud data lake and used PySpark to clean and
+transform datasets at scale. Applied a 30-minute inactivity rule to group raw clicks into meaningful shopping
+sessions, saving three analytical tables back to S3 in compressed Parquet format. Applied time-series forecasting by
+fitting Meta's Prophet model. Scheduled and automated the entire workflow using Apache Airflow. Built interactive
+Tableau Public and Streamlit dashboards.
+
+Technologies: PySpark, Amazon S3, Parquet, Tableau Public, Streamlit, Prophet (Time-Series Forecasting), Apache Airflow, 
+Python, AWS, AWS IAM
